@@ -1,7 +1,7 @@
 # cowincrawl
 Follow below mentioned steps:
-Install node.js 
-1.https://nodejs.org/en/download/
+
+1. Install node.js (https://nodejs.org/en/download/)
 2. open terminal or cmd
 3. cd to repository location 
 4. run node app.js
